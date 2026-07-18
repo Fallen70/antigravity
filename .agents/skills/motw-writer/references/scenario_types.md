@@ -18,7 +18,7 @@ Voici les 4 structures de scénario majeures à proposer au Gardien :
 *   **Structure** : Le compte à rebours est très rapide (quelques heures). La menace progresse de manière visible et brutale.
 *   **Idéal pour** : Un scénario de transition à haute tension. Moins de recherche d'indices, plus de choix moraux et de gestion de crise dans l'urgence.
 
-# Types de Mystères
+# Types de Compte a rebours
 
 Voici des structures de Mystère utilisables. Ce sont des archétype, ils peuvent être mélangé , modifié etc..
 

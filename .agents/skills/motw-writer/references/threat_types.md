@@ -38,7 +38,7 @@
 *   **Prison** : motivation : contraindre et empêcher toute sortie.
 *   **Planque** : motivation : accueillir les choses cachées.
 
-## Innocents (Bystanders)
+## Figurants (Bystanders)
 *   **Fouineur (Busybody)** : motivation : se mêler de ce qui ne le regarde pas.
 *   **Détective (Detective)** : motivation : trouver une explication.
 *   **Commère (Gossip)** : motivation : bavarder et répandre des rumeurs.
