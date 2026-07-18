@@ -9,11 +9,14 @@
 
 ## 2. Le Compte à Rebours de l'Arc (Arc Countdown)
 *Ce compte à rebours se déroule sur plusieurs scénarios, en arrière-plan.*
-*   **Étape 1 (Ombres)** : Premier signe subtil (un sbire mineur arrêté, un symbole occulte récurrent).
-*   **Étape 2 (Crépuscule)** : Le plan global progresse (une relique est volée, un PNJ allié disparaît).
-*   **Étape 3 (Nuit)** : La menace se dévoile aux yeux des initiés (les monstres sont plus agressifs).
-*   **Étape 4 (Minuit approche)** : Le grand méchant est sur le point d'accomplir son rituel ou plan final.
-*   **Étape 5 (Minuit)** : Apocalypse locale ou globale (changement drastique du statu quo).
+
+| Étape | Événement |
+| --- | --- |
+| **Étape 1 (Ombres)** | Premier signe subtil (un sbire mineur arrêté, un symbole occulte récurrent). |
+| **Étape 2 (Crépuscule)** | Le plan global progresse (une relique est volée, un PNJ allié disparaît). |
+| **Étape 3 (Nuit)** | La menace se dévoile aux yeux des initiés (les monstres sont plus agressifs). |
+| **Étape 4 (Minuit approche)** | Le grand méchant est sur le point d'accomplir son rituel ou plan final. |
+| **Étape 5 (Minuit)** | Apocalypse locale ou globale (changement drastique du statu quo). |
 
 ## 3. Liste des Mystères Liés
 1.  **[Mystère 1]** : [Comment il se connecte à l'arc]
