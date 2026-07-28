@@ -43,7 +43,7 @@ Un ou plusieurs meurtres ont été perpétrés qui, pour ceux qui s'y connaissen
 | **Jour (Day)** | Le monstre tue à nouveau. |
 | **Pénombre (Shadows)** | Le monstre tue à nouveau (un figurant utile). |
 | **Coucher de soleil (Sunset)** | Le monstre tue à nouveau (un figurant gênant). |
-| **Crépuscule (Dusk)** | Le monstre kidnappe des innocents. |
+| **Crépuscule (Dusk)** | Le monstre kidnappe des figurants. |
 | **Tombée de la nuit (Nightfall)** | Le monstre dévore ses prisonniers. |
 | **Minuit (Midnight)** | La puissance et la force du monstre augmentent. |
 

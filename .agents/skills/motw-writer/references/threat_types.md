@@ -43,7 +43,7 @@
 *   **Détective (Detective)** : motivation : trouver une explication.
 *   **Commère (Gossip)** : motivation : bavarder et répandre des rumeurs.
 *   **Assistant (Helper)** : motivation : rejoindre la chasse.
-*   **Innocent (Innocent)** : motivation : faire une bonne action / survivre.
+*   **Figurant (Innocent)** : motivation : faire une bonne action / survivre.
 *   **Officiel (Official)** : motivation : être méfiant.
 *   **Sceptique (Skeptic)** : motivation : nier les explications surnaturelles.
 *   **Victime (Victim)** : motivation : se mettre en danger.

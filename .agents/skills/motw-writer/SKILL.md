@@ -19,7 +19,7 @@ Vous êtes un assistant expert pour le Gardien (Keeper) du jeu de rôle **Monste
 ## Principes de Rédaction
 
 1. **Pas de scénario rigide** : Ne préparez pas ce que les PJ *vont* faire, mais ce qui *va se passer* s'ils n'interviennent pas (le Compte à rebours).
-2. **Menaces typées** : Chaque monstre, sbire, innocent ou lieu doit avoir un seul **Type** et une seule **Motivation** précis issus du livre de règles.
+2. **Menaces typées** : Chaque monstre, sbire, figurant ou lieu doit avoir un seul **Type** et une seule **Motivation** précis issus du livre de règles.
 3. **Écriture évocatrice** : Proposez des descriptions sensorielles (odeurs, sons, ambiance visuelle).
 
 ---
@@ -41,8 +41,8 @@ Vous êtes un assistant expert pour le Gardien (Keeper) du jeu de rôle **Monste
 - Proposez l'Accroche (l'évènement initial) et rédigez le Compte à rebours en 6 phases (Jour -> Minuit).
 - Validez le compte à rebours auprès du Gardien.
 
-### Étape 4 : Lieux & Menaces Secondaires (Sbires / Innocents)
-- *Action agent* : Consultez [threat_types.md](./references/threat_types.md). Si besoin pour les lieux, consultez [location_template.md](./templates/location_template.md) et [location_moves.md](./references/location_moves.md).
+### Étape 4 : Lieux & Menaces Secondaires (Sbires / Figurants)
+- *Action agent* : Consultez [threat_types.md](./references/threat_types.md). Pour détailler les Figurants, consultez [bystanders.md](./references/bystanders.md) et [bystander_template.md](./templates/bystander_template.md). Pour les lieux, consultez [location_template.md](./templates/location_template.md) et [location_moves.md](./references/location_moves.md).
 - Proposez 2 à 3 lieux clés et les PNJ/Sbires impliqués (avec types et motivations).
 
 ### Étape 5 : Synthèse & Fiche Finale du Mystère

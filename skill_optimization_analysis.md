@@ -41,7 +41,7 @@ La skill **`motw-writer`** (`.agents/skills/motw-writer/`) est un assistant d'é
 ### Dysfonctionnements & Goulots d'Étranglement Identifiés
 1. **Consommation excessive de tokens** : L'ancien `SKILL.md` référençait tous les templates simultanément sans consigne de lecture différée. L'agent risquait de lire les 9 fichiers de référence dès le 1er tour.
 2. **Workflow trop abrupt** : La procédure demandait de tout remplir d'un coup, sans offrir un échange pas-à-pas interactif avec le Gardien (MJ).
-3. **Manques sur les règles MotW** : Absence de références explicites pour les Témoins/Innocents (*Bystanders*) et pour les Manœuvres sur mesure (*Custom Moves*).
+3. **Manques sur les règles MotW** : Absence de références explicites pour les Témoins/Figurants (*Bystanders*) et pour les Manœuvres sur mesure (*Custom Moves*).
 
 ---
 
