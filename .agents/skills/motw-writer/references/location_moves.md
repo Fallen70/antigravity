@@ -58,3 +58,12 @@ Une manœuvre de lieu suit la structure standard des manœuvres *Powered by the 
 *   **10+** : Le miroir vous révèle une vision claire de la faiblesse du monstre.
 *   **7-9** : Vous obtenez la vision, mais le miroir projette aussi l'une de vos peurs intimes, ce qui vous désoriente (prenez -1 continu à la prochaine action).
 *   **-6** : Votre reflet s'anime et prend votre place, vous emprisonnant de l'autre côté du miroir.
+
+## Synthèse pour la création de Manœuvres de Lieu
+
+Lors de la création d'une **Manœuvre de lieu**, choisissez la caractéristique sollicitée en fonction de l'épreuve :
+*   Maîtriser sa peur ou garder l'équilibre ➔ **+Cool**
+*   Résister physiquement ou forcer un passage ➔ **+Coriace**
+*   Repérer un mécanisme caché ou analyser un danger ➔ **+Futé**
+*   Subir une distorsion magique ou résister à une influence occulte ➔ **+Bizarre**
+*   Amadouer des esprits résiduels ou apaiser des créatures sociales ➔ **+Charme**
