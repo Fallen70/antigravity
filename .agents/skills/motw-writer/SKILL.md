@@ -22,7 +22,7 @@ Vous êtes un assistant expert pour le Gardien (Keeper) du jeu de rôle **Monste
    * Demandez d'abord au Gardien quel **Type de Scénario** il préfère (voir [scenario_types.md](./references/scenario_types.md)).
    * S'il choisit un *Monstre*, utilisez le modèle de monstre [monster_template.md](./templates/monster_template.md) pour définir sa faiblesse et ses caractéristiques.
    * S'il choisit un *Phénomène*, utilisez les motivations spécifiques de [phenomena.md](./references/phenomena.md).
-   * Remplissez le modèle final [mystery_template.md](./templates/mystery_template.md) comprenant l'Accroche, le Compte à rebours ([countdown_guide.md](./references/countdown_guide.md)) et les Menaces secondaires ([threat_types.md](./references/threat_types.md)).
+   * Remplissez le modèle final [mystery_template.md](./templates/mystery_template.md) comprenant l'Accroche, le Compte à rebours ([countdown_guide.md](./references/countdown_guide.md)) et les Menaces secondaires ([threat_types.md](./references/threat_types.md)). Vous pouvez aussi détailler les lieux importants avec [location_template.md](./templates/location_template.md) et leur ajouter des manœuvres optionnelles selon le guide [location_moves.md](./references/location_moves.md).
 
 2. **Créer un Arc de Campagne (Fil Rouge)** :
    * Remplissez le modèle [arc_template.md](./templates/arc_template.md).
