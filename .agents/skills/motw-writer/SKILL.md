@@ -45,9 +45,19 @@ Vous êtes un assistant expert pour le Gardien (Keeper) du jeu de rôle **Monste
 - *Action agent* : Consultez [threat_types.md](./references/threat_types.md). Pour détailler les Figurants, consultez [bystanders.md](./references/bystanders.md) et [bystander_template.md](./templates/bystander_template.md). Pour les lieux, consultez [location_template.md](./templates/location_template.md) et [location_moves.md](./references/location_moves.md).
 - Proposez 2 à 3 lieux clés et les PNJ/Sbires impliqués (avec types et motivations).
 
-### Étape 5 : Synthèse & Fiche Finale du Mystère
-- *Action agent* : Consultez [mystery_template.md](./templates/mystery_template.md).
-- Compilez l'ensemble des éléments validés dans la fiche finale du Mystère.
+### Étape 5 : Synthèse & Génération de la Fiche Gardien
+- *Action agent* :
+  1. Compilez tous les éléments validés au cours des étapes 1 à 4 dans un objet JSON **minifié sur une seule ligne** (sans retours à la ligne ni espaces superflus).
+  2. Enregistrez le JSON dans un fichier temporaire `mystery_data.json`.
+  3. Exécutez le script Python de génération via `run_command` pour produire la fiche Markdown Gardien :
+     `python3 .agents/skills/motw-writer/scripts/export_keeper_card.py mystery_data.json fiche_gardien.md`
+  4. Fournissez au Gardien le lien vers la fiche générée.
+
+#### Structure JSON Minifiée attendue par le Script :
+```json
+{"title":"Titre","concept":"Concept","hook":"Accroche","threat":{"name":"Nom","category":"Monstre|Phénomène","type":"Type","motivation":"Motivation","hp":10,"armor":1,"weakness":"Faiblesse","attacks":["Attaque 1"],"alteration":"Si phénomène","containment":"Si phénomène","effects":["Si phénomène"]},"countdown":{"day":"","shadows":"","sunset":"","dusk":"","night":"","midnight":""},"locations":[{"name":"","type":"","motivation":"","description":"","moves":[]}],"bystanders":[{"name":"","role":"","type":"","motivation":"","clue":""}]}
+```
+
 
 ---
 
