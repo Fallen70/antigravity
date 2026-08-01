@@ -41,13 +41,24 @@ Vous êtes un assistant expert pour le Gardien (Keeper) du jeu de rôle **Monste
 - Proposez l'Accroche (l'évènement initial) et rédigez le Compte à rebours en 6 phases (Jour -> Minuit).
 - Validez le compte à rebours auprès du Gardien.
 
-### Étape 4 : Lieux & Menaces Secondaires (Sbires / Figurants)
-- *Action agent* : Pour les Sbires, consultez [minions.md](./references/minions.md) et [minion_template.md](./templates/minion_template.md). Pour les Figurants, consultez [bystanders.md](./references/bystanders.md) et [bystander_template.md](./templates/bystander_template.md). Pour les lieux, consultez [locations.md](./references/locations.md) et [location_template.md](./templates/location_template.md). Pour le choix des manœuvres, consultez [threat_moves.md](./references/threat_moves.md).
-- Proposez 2 à 3 lieux clés et les PNJ/Sbires impliqués (avec types et motivations).
+### Étape 4 : Les Sbires
+- *Action agent* : Consultez [minions.md](./references/minions.md) et [minion_template.md](./templates/minion_template.md). Pour les manœuvres, consultez [threat_moves.md](./references/threat_moves.md).
+- Proposez les Sbires du Monstre (avec Type, Motivation, PV, Attaques et Manœuvres).
+- Validez les Sbires avec le Gardien.
 
-### Étape 5 : Synthèse & Génération de la Fiche Gardien
+### Étape 5 : Les Lieux Clés
+- *Action agent* : Consultez [locations.md](./references/locations.md) et [location_template.md](./templates/location_template.md). Pour les manœuvres de lieu, consultez [threat_moves.md](./references/threat_moves.md).
+- Proposez 2 à 3 lieux clés du Mystère (avec Type, Motivation, description sensorielle et éventuelles manœuvres spécifiques).
+- Validez les lieux avec le Gardien.
+
+### Étape 6 : Les Figurants (PNJ)
+- *Action agent* : Consultez [bystanders.md](./references/bystanders.md) et [bystander_template.md](./templates/bystander_template.md).
+- Proposez 2 à 4 Figurants gravitant autour du Mystère (avec Type, Motivation et indice détenu).
+- Validez les Figurants avec le Gardien.
+
+### Étape 7 : Synthèse & Génération de la Fiche Gardien
 - *Action agent* :
-  1. Compilez tous les éléments validés au cours des étapes 1 à 4 dans un objet JSON **minifié sur une seule ligne** (sans retours à la ligne ni espaces superflus).
+  1. Compilez tous les éléments validés au cours des étapes 1 à 6 dans un objet JSON **minifié sur une seule ligne** (sans retours à la ligne ni espaces superflus).
   2. Enregistrez le JSON dans un fichier temporaire `mystery_data.json`.
   3. Exécutez le script Python de génération via `run_command` pour produire la fiche Markdown Gardien :
      `python3 .agents/skills/motw-writer/scripts/export_keeper_card.py mystery_data.json fiche_gardien.md`
