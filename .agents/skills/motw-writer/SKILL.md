@@ -32,8 +32,8 @@ Vous êtes un assistant expert pour le Gardien (Keeper) du jeu de rôle **Monste
 
 ### Étape 2 : La Menace Principale
 - *Action agent* : 
-  - Si *Monstre* : Consultez [monster_template.md](./templates/monster_template.md). Définissez son Type, sa Motivation, ses PV, ses Attaques et sa **Faiblesse**.
-  - Si *Phénomène* : Consultez [phenomena.md](./references/phenomena.md).
+  - Si *Monstre* : Consultez [monsters.md](./references/monsters.md) et [monster_template.md](./templates/monster_template.md). Pour les manœuvres de menace, consultez [threat_moves.md](./references/threat_moves.md). Définissez son Type, sa Motivation, ses PV, ses Attaques et sa **Faiblesse**.
+  - Si *Phénomène* : Consultez [phenomena.md](./references/phenomena.md) et [threat_moves.md](./references/threat_moves.md).
 - Validez les caractéristiques de la menace avec le Gardien.
 
 ### Étape 3 : L'Accroche & Le Compte à rebours
@@ -42,7 +42,7 @@ Vous êtes un assistant expert pour le Gardien (Keeper) du jeu de rôle **Monste
 - Validez le compte à rebours auprès du Gardien.
 
 ### Étape 4 : Lieux & Menaces Secondaires (Sbires / Figurants)
-- *Action agent* : Consultez [threat_types.md](./references/threat_types.md). Pour détailler les Sbires, consultez [minions.md](./references/minions.md) et [minion_template.md](./templates/minion_template.md). Pour les Figurants, consultez [bystanders.md](./references/bystanders.md) et [bystander_template.md](./templates/bystander_template.md). Pour les lieux, consultez [location_template.md](./templates/location_template.md) et [location_moves.md](./references/location_moves.md).
+- *Action agent* : Pour les Sbires, consultez [minions.md](./references/minions.md) et [minion_template.md](./templates/minion_template.md). Pour les Figurants, consultez [bystanders.md](./references/bystanders.md) et [bystander_template.md](./templates/bystander_template.md). Pour les lieux, consultez [locations.md](./references/locations.md) et [location_template.md](./templates/location_template.md). Pour le choix des manœuvres, consultez [threat_moves.md](./references/threat_moves.md).
 - Proposez 2 à 3 lieux clés et les PNJ/Sbires impliqués (avec types et motivations).
 
 ### Étape 5 : Synthèse & Génération de la Fiche Gardien
