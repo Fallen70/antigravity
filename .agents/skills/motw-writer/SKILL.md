@@ -66,7 +66,7 @@ Vous êtes un assistant expert pour le Gardien (Keeper) du jeu de rôle **Monste
 
 #### Structure JSON Minifiée attendue par le Script :
 ```json
-{"title":"Titre","concept":"Concept","hook":"Accroche","threat":{"name":"Nom","category":"Monstre|Phénomène","type":"Type","motivation":"Motivation","hp":10,"armor":1,"weakness":"Faiblesse","attacks":["Attaque 1"],"alteration":"Si phénomène","containment":"Si phénomène","effects":["Si phénomène"]},"countdown":{"day":"","shadows":"","sunset":"","dusk":"","night":"","midnight":""},"locations":[{"name":"","type":"","motivation":"","description":"","moves":[]}],"bystanders":[{"name":"","role":"","type":"","motivation":"","clue":""}]}
+{"title":"Titre","concept":"Concept","hook":"Accroche","threat":{"name":"Nom","category":"Monstre|Phénomène","type":"Type","motivation":"Motivation","hp":10,"armor":1,"weakness":"Faiblesse","attacks":["Attaque 1"],"moves":["Manœuvre 1"],"alteration":"Si phénomène","containment":"Si phénomène","effects":["Si phénomène"]},"countdown":{"day":"","shadows":"","sunset":"","dusk":"","night":"","midnight":""},"minions":[{"name":"","type":"","motivation":"","master":"","description":"","behavior":"","hp":5,"armor":0,"weaknesses":"","attacks":[""],"moves":[""]}],"locations":[{"name":"","type":"","motivation":"","description":"","moves":[""]}],"bystanders":[{"name":"","role":"","type":"","motivation":"","description":"","clue":"","reveal_condition":""}]}
 ```
 
 
